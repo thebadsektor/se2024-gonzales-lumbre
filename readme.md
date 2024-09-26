@@ -71,6 +71,7 @@ This project is designed to facilitate the management of computer repair shops, 
 [UI Placeholder](./assets/img/UII.png)
 
 ## Project Structure
+```
 .
 ├── application/
 │   ├── cache
@@ -103,6 +104,7 @@ This project is designed to facilitate the management of computer repair shops, 
 ├── editorconfig
 ├── index
 └── readme
+```
 
 ## Contributor
 
