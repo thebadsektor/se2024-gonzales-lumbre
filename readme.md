@@ -66,9 +66,9 @@ This project is designed to facilitate the management of computer repair shops, 
 - **Technicians** : Technicians can update job statuses and track assigned tasks.
 - **Customers** : Customers can log in to check their job statuses.
 
-[UI Placeholder](./assets/img/UI.png)
+![UI Placeholder](./assets/img/UI.png)
 
-[UI Placeholder](./assets/img/UII.png)
+![UI Placeholder](./assets/img/UII.png)
 
 ## Project Structure
 ```
