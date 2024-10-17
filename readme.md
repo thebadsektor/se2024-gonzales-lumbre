@@ -119,6 +119,8 @@ Outline the project timeline, including milestones or deliverables. Example:
 - **Week 1-2**: Research and project planning.
 - 08/17/24
 - https://youtu.be/sOAkmxdDW8A
+- Feature to Implement: Dockerize Project
+- Completion Date: 27/10/2024
 
 
 ## Change Log
