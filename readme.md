@@ -117,10 +117,9 @@ This project is designed to facilitate the management of computer repair shops, 
 Outline the project timeline, including milestones or deliverables. Example:
 
 - **Week 1-2**: Research and project planning.
-- **Week 3-5**: Design and setup.
-- **Week 6-10**: Implementation.
-- **Week 11-12**: Testing and debugging.
-- **Week 13-14**: Final presentation and documentation.
+- 08/17/24
+- https://youtu.be/sOAkmxdDW8A
+
 
 ## Change Log
 
