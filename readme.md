@@ -1,5 +1,7 @@
 # SD-3101 [Computer Repair Shop Management System]
 
+![UI Placeholder](./assets/img/UI.png)
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Project Overview](#project-overview)
